@@ -1,0 +1,6 @@
+model:
+    - name: "chat"
+      path: "https://api.openai.com/v1/chat/completions"
+      key: ""
+      type: "gpt-3.5-turbo"
+context: "chat"
